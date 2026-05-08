@@ -26,11 +26,7 @@
 
 ### 贡献热力图
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake.svg" />
-</picture>
+![github-contribution-grid](https://ghchart.rshah.org/liuyunss)
 
 ### GitHub 数据
 
