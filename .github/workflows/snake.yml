@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 8 * * *"   # UTC 08:00 = 北京 16:00
+    - cron: "0 8 * * *"
   workflow_dispatch:
 
 permissions:
@@ -12,17 +12,12 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
+      - uses: Platane/snk@v3
         with:
-          python-version: "3.11"
-
-      - name: Generate snake SVG
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python .github/scripts/gen_snake.py liuyunss "$GITHUB_TOKEN"
+          github_user_name: liuyunss
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Deploy to output branch
         run: |
