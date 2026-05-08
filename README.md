@@ -31,7 +31,7 @@
 ### 贡献热力图 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/snake-dark.svg" width="650" />
+  <img src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake-dark.svg" width="650" />
 </p>
 
 ### GitHub 数据
