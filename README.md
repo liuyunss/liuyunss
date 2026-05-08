@@ -28,14 +28,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
 </p>
 
-### 贡献热力图 🐍
+### 贡献热力图
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake-dark.svg" width="650" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake.svg" />
+  <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/github-snake.svg" width="650" />
+</picture>
 
 ### GitHub 数据
 
 <p>
   <img src="https://github-stats.vercel.app/api?username=liuyunss&show_icons=true&hide_border=true&theme=default" height="150" />
 </p>
+
