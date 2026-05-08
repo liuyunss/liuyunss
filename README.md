@@ -7,7 +7,11 @@
 <p align="center">喜欢，并且热爱眼前所做的一切~</p>
 
 <p align="center">
+  <a href="https://github.com/liuyunss?tab=followers">
+    <img src="https://img.shields.io/github/followers/liuyunss?label=Followers&style=social" />
+  </a>
   <img src="https://komarev.com/ghpvc/?username=liuyunss&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/stars/liuyunss?label=Total%20Stars&logo=github&style=social" />
 </p>
 
 ---
@@ -24,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
 </p>
 
-### 蛇形热力图 🐍
+### 贡献热力图 🐍
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/snake-dark.svg" width="650" />
