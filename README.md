@@ -5,7 +5,7 @@
 <h3 align="center">liuyunss</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=喜欢，并且热爱眼前所做的一切~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=%E5%96%9C%E6%AC%A2%EF%BC%8C%E5%B9%B6%E4%B8%94%E7%83%AD%E7%88%B1%E7%9C%BC%E5%89%8D%E6%89%80%E5%81%9A%E7%9A%84%E4%B8%80%E5%88%87~" alt="Typing SVG" />
 </p>
 
 <p align="center">
