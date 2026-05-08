@@ -24,9 +24,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
 </p>
 
-### 贡献热力图
+### 蛇形热力图 🐍
 
-![github-contribution-grid](https://ghchart.rshah.org/liuyunss)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/liuyunss/liuyunss/output/snake-dark.svg" width="650" />
+</p>
 
 ### GitHub 数据
 
