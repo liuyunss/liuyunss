@@ -24,14 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
 </p>
 
-### 精选项目
-
-| 项目 | 说明 |
-|------|------|
-| [browser-toolkit](https://github.com/liuyunss/browser-toolkit) | 油猴脚本集合，提升日常浏览体验 |
-| [my-quant](https://github.com/liuyunss/my-quant) | A股量化投资知识库 + 策略存档 |
-| [LX-source](https://github.com/liuyunss/LX-source) | 落雪播放源 |
-
 ### 贡献热力图
 
 <picture>
@@ -43,5 +35,5 @@
 ### GitHub 数据
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=liuyunss&show_icons=true&hide_border=true&theme=default" height="150" />
+  <img src="https://github-stats.vercel.app/api?username=liuyunss&show_icons=true&hide_border=true&theme=default" height="150" />
 </p>
