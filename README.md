@@ -5,7 +5,7 @@
 <h3 align="center">liuyunss</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=600&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=喜欢，并且热爱眼前所做的一切~" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=ZCOOL+KuaiLe&weight=600&size=24&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&multiline=true&repeat=true&width=435&height=100&lines=喜欢，并且热爱眼前所做的一切~" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -42,10 +42,4 @@
 
 <p>
   <img src="https://github-stats.vercel.app/api?username=liuyunss&show_icons=true&hide_border=true&theme=default" height="150" />
-</p>
-
-### 成就
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=liuyunss&no-frame=true&no-bg=false&column=7&theme=flat" />
 </p>
